@@ -1,5 +1,5 @@
 <b>Domain</b>     :: Coding Dojo (cd)
-<b>Topic</b>      :: Ruby on Rails (ror)<br> Understanding Rails - Models (02model)
+<b>Topic</b>      :: Ruby on Rails (ror), Understanding Rails - Models (02model)
 <b>Assignment</b> :: Dojo Ninjas (02ninjas)
 <b>Repository</b> :: cd-ror-02model-02ninjas
 
