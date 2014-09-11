@@ -1,6 +1,6 @@
 |     Project | Information                                                      |
 |------------:|:-----------------------------------------------------------------|
-| Domain:     | [Coding Dojo](http://codingdojo.com) (cd)                        |
+| Domain      | [Coding Dojo](http://codingdojo.com) (cd)                        |
 | Topic       | Ruby on Rails (ror) <br> Understanding Rails - Models (02model)  |
 | Assignment  | Dojo Ninjas (02ninjas)                                           |
 | Repository  | cd-ror-02model-02ninjas                                          |
